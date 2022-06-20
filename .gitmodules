@@ -1,0 +1,3 @@
+[submodule "test-submodule_submodule-ssh"]
+	path = test-submodule_submodule-ssh
+	url = git@github.com:jhormanrus/test-submodule_submodule.git
